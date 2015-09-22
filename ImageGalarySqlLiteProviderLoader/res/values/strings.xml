@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GridView Example</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/image_1</item>
+       
+    </string-array>
+
+</resources>
